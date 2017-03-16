@@ -7,11 +7,14 @@ So much of the language we process every day is heard, not written. When thinkin
 
  **The Toolkit:**
  * scikit-learn
+ * Google Cloud project
  * gensim
  * numpy
  * MongoDB
  * Google Cloud Speech API
+ * Google Cloud Storage API
+
 
 
 **The Results:**
-The topic extraction was accurate, but not insightful. Increasing the size of the data set or using more nuanced data could yield better results. One possible idea is transcribing stand up comedy over time and grouping comedians by time or topics. 
+The topic extraction was accurate, but not insightful. Increasing the size of the data set or using more nuanced data could yield better results. One possible idea is transcribing stand up comedy over time and grouping comedians by time or topics.
